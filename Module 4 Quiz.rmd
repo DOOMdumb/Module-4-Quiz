@@ -1,0 +1,39 @@
+---
+title: "Module 4 Quiz Trial"
+author: "Karl Boncodin"
+date: "8/2/2021"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Question 1
+```
+
+```
+### A. Draw a scatter diagram of y (blood pressure rise in millimeters of mercury) versus x (sound pressure level in decibels). Does a simple linear regression model seem reasonable in this situation?
+
+### B. Fit the simple linear regression model using least squares. Find an estimate of $\sigma^2$
+
+### C.Find the predicted mean rise in blood pressure level associated with a sound pressure level of 85 decibels.
+
+
+===============================================================================================================
+
+## Question 2
+
+### A. Fit a multiple linear regression model to these data.
+
+### B. Estimate $\sigma^2$
+
+### C. Compute the standard errors of the regression coefficients.
+
+### D. Predict the useful range when brightness = 80 and contrast = 75.
+
+### E. Test for significance of regression using $\alpha$ = 0.05. What is the P-value for this test?
+
+### F. Construct a t-test on each regression coefficient. What conclusions can you draw about the variables in this model? Use $\alpha$ = 0.05.

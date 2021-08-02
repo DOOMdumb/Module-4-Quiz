@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/795706/a6f550485521407dab2a4e85203c5ded
+bundleId: https://api.rpubs.com/api/v1/document/795706/a6f550485521407dab2a4e85203c5ded
+url: http://rpubs.com/DOOMdumb/795706
+when: 1627918445.08309
+lastSyncTime: 1627918445.08309
